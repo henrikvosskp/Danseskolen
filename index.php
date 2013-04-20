@@ -2,7 +2,7 @@
 
 <html lang="en">
 	
-	<head>
+	<head fontsize=45>
 		
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 		
@@ -13,9 +13,7 @@
 	</head>
 	
 	<body>
-	<Br>
-	Hei Henrik
-	<Br>
+	
 		
 		
 	</body>
