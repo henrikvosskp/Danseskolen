@@ -15,9 +15,6 @@
 	<body>
 	
 		
-		<p>Du er ganske irriterende innimellom</p>
-		
-
 		
 	</body>
 
