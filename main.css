@@ -1,5 +1,9 @@
 /*General formatting*/
 
+h1
+{
+	text-transform:uppercase;
+}
 
 
 /*Div formatting*/
@@ -12,7 +16,6 @@
 
 .header
 {
-	text-decoration:uppercase;
 	text-align:center;
 	background-color:#94FFB8;
 }
