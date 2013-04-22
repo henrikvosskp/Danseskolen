@@ -33,8 +33,17 @@
 		
 		<div class="content">
 			
-			<p>Aenean eleifend, orci eu semper cursus, neque magna ultrices lacus, ac cursus nisl diam ac metus. Morbi ut ligula magna, quis placerat nisl. Morbi euismod, eros in sollicitudin porta, ligula tellus rhoncus mi, quis tempus sapien dui sed ante. Ut faucibus fringilla ante, vel elementum lectus cursus ut. Aliquam egestas sagittis libero, vulputate tempus urna malesuada eget. Donec neque orci, porta sit amet porttitor ut, dictum eget nisi. Maecenas nec lorem nulla. Fusce eget risus leo. In congue pulvinar nisi, et interdum augue iaculis sit amet. Vivamus adipiscing iaculis egestas.</p>
-			<p>Curabitur vehicula condimentum turpis at luctus. Vestibulum eget nunc libero. Sed consequat luctus massa, ac tempus elit pretium quis. Nunc vel posuere libero. Fusce commodo cursus erat quis laoreet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin vestibulum, odio nec pharetra aliquam, elit nibh fringilla erat, et pretium lacus erat in mauris. Mauris at felis odio. Morbi neque magna, condimentum sed ullamcorper eu, rutrum ut arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel elementum purus.</p>
+			<h2>Velkommen til å lære og danse!</h2>
+			
+			<p>Vi underviser i blant annet latinamerikanske danser, standarddanser, barnedanser, swing, gammeldans, salsa og mye, mye mer.</p>
+
+			<p>For tiden har vi faste kurs på Tranby i Lier, men kan arrangere skreddesydde kurs og aktivitetskvelder etter avtale.</p>
+
+			<p>Vi har erfaring fra sportsdans i norgestoppen, eksamen fra NDF, pedagogisk bakgrunn, og mer enn ti års erfaring med danseundervisning for barn og voksne.</p>
+
+			<p>På vår danseskole legger vi vekt på at danseskolen skal oppleves som et trygt, godt og morsomt sted å være, samtidig som vi er her for å lære å danse. Vårt mål er at store og små skal glede seg til å komme, hver eneste gang.</p>
+
+			<p>Dans utvikler koordinasjon, styrke, musikkforståelse og kreativitet, samtidig som det er en god treningsøkt, og gir tid til sosialt samvær i en travel hverdag. Vi ønsker å ivareta gamle tradisjoner, samtidig som vi stadig utvikler oss og følger med i dansens pulserende verden.</p>
 			
 		</div>
 		
